@@ -15,3 +15,10 @@
 <li>After downloading the dataset from Kaggle, I saved it to my working directory with the name dataset.csv. Next, I used read_csv() to read the dataset and save it to the dataset variable.</li>
   <h2>Machine Learning</h2>
 <p>In this project, I took 4 algorithms and varied their various parameters and compared the final models. I split the dataset into 67% training data and 33% testing data.</li>
+<h2>Conclusion</h2>
+<p>The project involved analysis of the heart disease patient dataset with proper data processing. Then, 4 models were trained and tested with maximum scores as follows:</p>
+
+K Neighbors Classifier: 87%
+Support Vector Classifier: 83%
+Decision Tree Classifier: 79%
+Random Forest Classifier: 84%
