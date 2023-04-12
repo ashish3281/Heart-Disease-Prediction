@@ -9,3 +9,7 @@
 <li>warnings: To ignore all warnings which might be showing up in the notebook due to past/future depreciation of a feature</li>
 <li>train_test_split: To split the dataset into training and testing data</li>
 <li>StandardScaler: To scale all the features, so that the Machine Learning model better adapts to the dataset</li>
+
+  
+  <h2>Import dataset</h2>
+<li>After downloading the dataset from Kaggle, I saved it to my working directory with the name dataset.csv. Next, I used read_csv() to read the dataset and save it to the dataset variable.</li>
