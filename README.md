@@ -13,3 +13,5 @@
   
   <h2>Import dataset</h2>
 <li>After downloading the dataset from Kaggle, I saved it to my working directory with the name dataset.csv. Next, I used read_csv() to read the dataset and save it to the dataset variable.</li>
+  <h2>Machine Learning</h2>
+<p>In this project, I took 4 algorithms and varied their various parameters and compared the final models. I split the dataset into 67% training data and 33% testing data.</li>
